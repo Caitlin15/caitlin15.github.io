@@ -172,7 +172,7 @@ table {
 }
 
 /* Medium devices (tablets, 768px and up) */
-@media (min-width: 768px) {
+@media (min-width: 1200px) {
 
   nav {
       padding: 10px;
@@ -237,7 +237,7 @@ font-size: 18px;
 }
 
 /* Large devices (desktops, 992px and up) */
-@media (min-width: 992px) {
+@media (min-width: 1200px) {
 
   .navtext {
   margin-bottom: 20px;
