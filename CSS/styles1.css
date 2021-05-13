@@ -135,7 +135,7 @@ form {
 }
 
 /* Small devices (landscape phones, 544px and up) */
-@media (min-aspect-ratio: 19/9) {
+@media (min-width: 1200px) {
   nav {
     	padding: 15px;
   }
