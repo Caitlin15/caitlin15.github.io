@@ -135,7 +135,7 @@ form {
 }
 
 /* Small devices (landscape phones, 544px and up) */
-@media (min-width: 1200px) {
+@media (min-width: 544px) {
   nav {
     	padding: 15px;
   }
@@ -172,7 +172,7 @@ table {
 }
 
 /* Medium devices (tablets, 768px and up) */
-@media (min-width: 1200px) {
+@media (min-width: 768px) {
 
   nav {
       padding: 10px;
@@ -237,7 +237,7 @@ font-size: 18px;
 }
 
 /* Large devices (desktops, 992px and up) */
-@media (min-width: 1200px) {
+@media (min-width: 992px) {
 
   .navtext {
   margin-bottom: 20px;
